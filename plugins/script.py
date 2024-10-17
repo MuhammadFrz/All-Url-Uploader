@@ -10,7 +10,7 @@ I am Powerful Url Uploader Bot
 
     HELP_TEXT = """
 
-# Send me the Google Drive | YT | direct links.
+# Send me the Google Drive | ytdl | direct links.
 
 # Select the desired option.
 
@@ -20,9 +20,9 @@ I am Powerful Url Uploader Bot
     # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Test
+<b>♻️ My Name</b> : Url Uploader Bot
 
-<b>🌀 Channel</b> : <a href="t.me/flat_shark">@TMWAD</a>
+<b>🌀 Channel</b> : <a href="t.me/flat_shark">test</a>
 
 <b>🌺 This bot is running on</b> : <a href="https://railway.app/">Railway</a>
 
