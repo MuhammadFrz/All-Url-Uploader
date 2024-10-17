@@ -10,7 +10,7 @@ I am Powerful Url Uploader Bot
 
     HELP_TEXT = """
 
-# Send me the Google Drive | ytdl | direct links.
+# Send me the Google Drive | YT | direct links.
 
 # Select the desired option.
 
@@ -20,17 +20,17 @@ I am Powerful Url Uploader Bot
     # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>♻️ My Name</b> : Test
 
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>🌀 Channel</b> : <a href="t.me/flat_shark">@TMWAD</a>
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>🌺 This bot is running on</b> : <a href="https://railway.app/">Railway</a>
 
 <b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
 
 <b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
+<b>👲 Developer :</b> <a href="https://t.me/https://t.me/Goofy_ahh_Username">@Goofy_ahh_Username</a>
 
 """
 
@@ -67,7 +67,7 @@ I am Powerful Url Uploader Bot
         [
             [
                 InlineKeyboardButton("❓ Help", callback_data="help"),
-                InlineKeyboardButton("🦊 About", callback_data="about"),
+                InlineKeyboardButton("🐸 About", callback_data="about"),
             ],
             [InlineKeyboardButton("📛 Close", callback_data="close")],
         ]
@@ -76,7 +76,7 @@ I am Powerful Url Uploader Bot
         [
             [
                 InlineKeyboardButton("🏠 Home", callback_data="home"),
-                InlineKeyboardButton("🦊 About", callback_data="about"),
+                InlineKeyboardButton("🐸 About", callback_data="about"),
             ],
             [InlineKeyboardButton("📛 Close", callback_data="close")],
         ]
